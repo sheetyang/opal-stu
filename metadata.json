@@ -1,0 +1,6 @@
+{
+  "name": "Opal Turtle Studio",
+  "description": "A professional jewelry lookbook featuring handcrafted opal sea turtle earrings in an editorial, high-end style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
